@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0e91a1;
+  height: 100%;
+  font-family: 'CenturyGothicBold', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+@font-face {
+  font-family: 'CenturyGothicBold';
+  src: url('assets/fonts/centurygothic_bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+#game {
+  width: 100%;
+  height: 100%;
+}
